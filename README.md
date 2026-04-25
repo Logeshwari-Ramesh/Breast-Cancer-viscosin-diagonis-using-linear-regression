@@ -1,4 +1,4 @@
-# Breast Cancer Prediction App
+# Breast Cancer Prediction Website
 
 This project uses Machine Learning to predict whether a tumor is cancerous or not.
 
